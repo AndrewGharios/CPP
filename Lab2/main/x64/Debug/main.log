@@ -1,0 +1,9 @@
+﻿  City.cpp
+  Location.cpp
+  main.cpp
+  Metropolis.cpp
+D:\Desktop\andrew\main\Metropolis.cpp(9,50): error C3861: getPopulation: идентификатор не найден
+  Place.cpp
+  Region.cpp
+  TObject.cpp
+  Создание кода...
